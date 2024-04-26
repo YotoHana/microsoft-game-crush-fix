@@ -1,1 +1,1 @@
-To use this software, you need to download the file "main.exe " and launch it
+To use this software, you need to download the file "microfix.exe " and launch it
